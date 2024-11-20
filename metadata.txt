@@ -1,0 +1,12 @@
+[general]
+name=Intersection Point Generator
+QgisMinimumVersion=3.0
+description=Generates intersection points between lines and polygons.
+version=1.0
+author=Akifcan Tercan
+email=aktercan@hotmail.com
+icon=icon.png
+category=Vector
+
+[about]
+description=Generates intersection points between lines and polygons.
